@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual envs
+venv/
+.my_env/
+.env/
+*.env
+
+# Data / outputs
+data/
+*.parquet
+*.csv
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+
+# Credentials
+credentials.py
+.env
+my_env/
+__pycache__/
